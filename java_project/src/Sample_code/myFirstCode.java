@@ -6,6 +6,7 @@ public class myFirstCode {
 		// TODO Auto-generated method stub
 /*	This particular line is used for printing in console	
 System.out.println ("Hyderabad");*/
+		
 	}
 
 }
