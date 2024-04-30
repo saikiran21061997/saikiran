@@ -971,3 +971,34 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact com.google.gu
 2024-04-25 19:47:50,755 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\pc\eclipse-workspace\selenium\src\main\resources
 2024-04-25 19:47:50,758 [Worker-20: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2024-04-25 19:47:50,759 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\pc\eclipse-workspace\selenium\src\test\resources
+2024-04-25 20:02:45,179 [Stop Help Server] INFO  org.eclipse.jetty.server.Server - Stopped oejs.Server@76faeaa7{STOPPING}[12.0.6,sto=0]
+2024-04-25 20:02:45,183 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@4154de1f{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
+2024-04-26 13:11:15,748 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-04-26 20:53:54,943 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-04-26 20:55:22,840 [Worker-8: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-04-26 20:55:22,844 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\pc\eclipse-workspace\selenium\src\main\resources
+2024-04-26 20:55:22,850 [Worker-8: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-04-26 20:55:22,852 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\pc\eclipse-workspace\selenium\src\test\resources
+2024-04-26 20:58:48,019 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-12.0.6; built: 2024-01-30T02:43:24.387Z; git: 78ab6e6ba163f89cdd97f2ae0283fbb5e371cfaf; jvm 17.0.10+7
+2024-04-26 20:58:48,163 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started oeje8n.ContextHandler$CoreContextHandler@66fccb04{/help,/help,b=null,a=AVAILABLE,h=oeje8n.ContextHandler$CoreContextHandler$CoreToNestedHandler@2a2e280c{STARTED}}
+2024-04-26 20:58:48,164 [Start Help Server] INFO  o.e.j.s.DefaultSessionIdManager - Session workerName=node0
+2024-04-26 20:58:48,198 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@c356acb{HTTP/1.1, (http/1.1)}{127.0.0.1:49985}
+2024-04-26 20:58:48,208 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started oejs.Server@7367495{STARTING}[12.0.6,sto=0] @333970ms
+2024-04-26 21:00:44,895 [Worker-3: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-04-26 21:00:44,896 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\pc\eclipse-workspace\selenium\src\main\resources
+2024-04-26 21:00:44,901 [Worker-3: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-04-26 21:00:44,902 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\pc\eclipse-workspace\selenium\src\test\resources
+2024-04-26 21:41:40,531 [Stop Help Server] INFO  org.eclipse.jetty.server.Server - Stopped oejs.Server@7367495{STOPPING}[12.0.6,sto=0]
+2024-04-26 21:41:40,535 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@c356acb{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
+2024-04-27 10:03:19,734 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-04-29 21:22:54,365 [Worker-9: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-04-30 11:00:41,621 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-04-30 15:11:15,143 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-04-30 15:16:43,587 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-04-30 16:23:40,770 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-04-30 16:23:44,306 [Worker-2: Deferred Early Start] INFO  o.a.h.c.h.i.c.HttpRequestRetryExec - Recoverable I/O exception (java.net.SocketException) caught when processing request to {s}->https://www.eclipse.org:443
+2024-04-30 16:24:37,176 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-04-30 16:25:46,454 [Worker-0: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-04-30 16:25:46,456 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\pc\eclipse-workspace\selenium\src\main\resources
+2024-04-30 16:25:46,462 [Worker-0: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-04-30 16:25:46,464 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\pc\eclipse-workspace\selenium\src\test\resources
